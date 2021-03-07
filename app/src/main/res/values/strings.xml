@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Antonio_Intent</string>
+    <string name="input_month">INPUT MONTH</string>
+    <string name="_0">0</string>
+    <string name="proceed">PROCEED</string>
+    <string name="results_here">Results Here</string>
+</resources>

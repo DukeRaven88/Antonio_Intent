@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnNext" type="id" />
+    <item name="txtdisplay" type="id" />
+    <item name="txtMonthValue" type="id" />
+    <item name="txtView" type="id" />
+</resources>
